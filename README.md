@@ -1,1 +1,1 @@
-# ECS-UniRx-Mini-game
+ECS-UniRx Mini game

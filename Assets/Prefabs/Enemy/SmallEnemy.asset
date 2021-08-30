@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: da3953ff220054f76bc6ea6744918a8f, type: 3}
+  m_Name: SmallEnemy
+  m_EditorClassIdentifier: 
+  view: {fileID: 8036669585326429795, guid: f8583b155f3294e15b03191c3d588613, type: 3}
+  gun: {fileID: 11400000, guid: 5781803d82f194216b1f3204b767c78a, type: 2}
+  deathEffect: {fileID: 8462792388426635383, guid: 4418225a3b5f6483986b974e305c93df, type: 3}
+  attackRange: 10
+  moveSpeed: 5
+  health: 10
+  deathEffectTime: 0.3
